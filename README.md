@@ -2,7 +2,7 @@
 
 Multi platform Desktop app for the [Hotnews Web Application](https://github.com/Ysn4Irix/hotnews) made with [Electron](https://www.electronjs.org)
 
-##### Windows Executable version available on [Release](https://github.com/Ysn4Irix/ElectronHotNews/releases) Tab
+##### Windows Executable version available on [Onedrive](https://1drv.ms/u/s!AlKjSRgLOnwJefqRaPefofh3bm4)
 #
 ## Installation
 
